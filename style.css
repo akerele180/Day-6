@@ -1,0 +1,108 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    font-size: 14px;
+}
+ul {
+    list-style: none;
+    display: inline;
+    
+}
+li {
+    display: inline;
+    position: right;
+    padding: 10px;
+    right: 200px;
+}
+img#first, img#second {
+    bottom: 500px;
+}
+.body{
+    text-align:center;
+}
+div.class2{
+    display: inline;
+}
+img#first, img#second{
+    position: relative;
+    top: 10px;
+}
+ul.lists{
+    position:absolute;
+    right:50px;
+    margin-left: 20px;
+}
+li.iam{
+    margin-left:25px;
+}
+li {
+    margin-left: 40px;
+}
+div.search{
+    margin-left: 400px;
+    border: 1px solid #80808047;
+    height: 50px;   
+    width: 600px;
+    border-radius: 40px;
+}
+div.list2{
+    margin:25px;
+}
+ul.list2 li{
+    margin:1px;
+    margin-left: -5px;
+}
+a.one, a.two, a.three {
+    margin-left: -10px;
+}
+img#lens {
+    position:absolute;
+    left: 413px;
+    top: 343px;
+}
+img#mic {
+    position:absolute;
+    right: 370px;
+    top: 335px;
+}
+.middle{
+    padding:40px;
+    color: #8080807e;
+    font-size: 15px;
+    padding-left:-180px;
+}
+#second, #first, .middile, .middile2{
+    margin-left: -30px;
+}
+li.middile{
+    margin-left:-50px;
+}
+.sub-foot{
+    color: #8080807e;
+    padding: 30px;
+}
+p.nigeria{
+    margin-bottom: 30px;
+}
+div#push{
+    position:absolute;
+    right: 10px;   
+    bottom:20px;
+}
+li.push{
+    margin-right: 0px;
+}
+ul.pull{
+    margin-left: -50px;
+}
+li.push .a{
+    position: relative;
+    left:-50px;
+}
+a {
+    color: blue;
+    text-decoration: none;
+}
