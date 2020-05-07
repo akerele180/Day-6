@@ -74,11 +74,11 @@ img#mic {
     font-size: 15px;
     padding-left:-180px;
 }
-#second, #first, .middile, .middile2{
+#second, #first, .middile2{
     margin-left: -30px;
 }
 li.middile{
-    margin-left:-50px;
+    margin-right:30px;
 }
 .sub-foot{
     color: #8080807e;
@@ -106,3 +106,4 @@ a {
     color: blue;
     text-decoration: none;
 }
+@media screen and (max-width:)
